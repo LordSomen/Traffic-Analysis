@@ -29,9 +29,7 @@ Python, Jupyter Notebook, Computer Vision, OpenCV, MoviePy
 
 
 ## Screenshots
-
-![traffic](https://drive.google.com/file/d/1VFxmebzkJEDAjV81gZZXLkFQr_faVFKG/view?usp=sharing)
-
+![traffic_night_out](https://user-images.githubusercontent.com/29105619/148089104-07473335-57a9-4532-8917-31dbdda7a981.jpg)
 
 ## Run Locally
 
@@ -86,6 +84,7 @@ Software Developer with experience of almost 2 Years working in different softwa
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LordSomen)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-pal-810283152/)
 
 
