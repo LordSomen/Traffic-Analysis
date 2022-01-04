@@ -115,4 +115,5 @@ if len(idxs) > 0:
 
 # show the output image
 cv2.imshow("Image", image)
-cv2.waitKey(0)
+cv2.imwrite('./output/traffic_night_out.jpg', image)
+cv2.waitKey(5000)
